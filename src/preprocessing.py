@@ -1,4 +1,6 @@
 import category_encoders as cat_encoder
+import pandas as pd
+import numpy as np
 
 class processing:
     def __init__(self, data):
